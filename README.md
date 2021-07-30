@@ -24,7 +24,7 @@ My name is Hassan Munir. I am a full-stack web developer with a passion for buil
 
   
 
-[<img align="left" alt="mehmc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]: http://hassanmunir.tech/
+[<img align="left" alt="hsnmnr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]: http://hassanmunir.tech/
 
 <br  />
 
@@ -70,15 +70,15 @@ My name is Hassan Munir. I am a full-stack web developer with a passion for buil
 
   
 
-<img  align="left"  alt="mehmc's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mehmc&show_icons=true"  />  &nbsp;
+<img  align="left"  alt="hsnmnr's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hsnmnr&show_icons=true"  />  &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmc)](https://github.com/mehmc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnmnr)](https://github.com/hsnmnr/github-readme-stats)
 
   
   
   
 
-⭐️ From [Hassan Munir](https://github.com/mehmc)
+⭐️ From [Hassan Munir](https://github.com/hsnmnr)
 
   
 [website]: http://hassanmunir.tech/
