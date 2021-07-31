@@ -24,7 +24,11 @@ My name is Hassan Munir. I am a full-stack web developer with a passion for buil
 
   
 
-[<img align="left" alt="hsnmnr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]: http://hassanmunir.tech/
+[<img align="left" alt="hsnmnr" width="22px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />][website]: http://hassanmunir.tech/
+
+<br  />
+
+[<img align="left" alt="hsnmnr" width="22px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" />][website]: https://www.linkedin.com/in/hsnmnr/
 
 <br  />
 
