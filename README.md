@@ -6,7 +6,7 @@
 
   
 
-My name is Hassan Munir. I am a full-stack web developer with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensures quality and high professionalism in everything I do. One word – programmer.
+My name is Hassan Munir. I am a full-stack web developer with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – programmer.
 
   
 
