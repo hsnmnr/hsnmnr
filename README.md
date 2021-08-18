@@ -73,23 +73,29 @@
 
 <h2></h2>
 
-<center>
-	<h2 align="center">Git Hub Stats 📝</h2>
-	<div align="center">
-		<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnmnr&theme=dark&layout=compact&langs_count=20"/>
-	</div>
-	<br>
-	<div align="center">
-		<img align="center"  src="https://github-readme-stats.vercel.app/api?username=hsnmnr&theme=dark"/>
-	</div>
-	<br>
-	<p align="center">
-		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnmnr&theme=dark&hide_border=true"/>
-	</p> 
-	<p align="center">
-		<img src="https://metrics.lecoq.io/hsnmnr" alt="Github Metrics" />
+<details>
+	<summary>
+		<h2 align="center">Git Hub Stats 📝</h2>
+	</summary>
+	<p>
+		<center>
+			<div align="center">
+				<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnmnr&theme=dark&layout=compact&langs_count=20"/>
+			</div>
+			<br>
+			<div align="center">
+				<img align="center"  src="https://github-readme-stats.vercel.app/api?username=hsnmnr&theme=dark"/>
+			</div>
+			<br>
+			<p align="center">
+				<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnmnr&theme=dark&hide_border=true"/>
+			</p>
+			<p align="center">
+				<img src="https://metrics.lecoq.io/hsnmnr" alt="Github Metrics" />
+			</p>
+		</center>
 	</p>
-</center>
+</details>
 
 <h2></h2>
 
