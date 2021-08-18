@@ -53,12 +53,12 @@
 
 <h2 align="center">Languages, tools and technologies that I use:</h2>
 
-<center>
+<p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-e3f248?style=flat-square&logo=JavaScript&logoColor=yellow" /><img src="https://img.shields.io/badge/-TypeScript-216186?style=flat-square&logo=TypeScript&logoColor=blue" /><img src="https://img.shields.io/badge/-Node.Js-8fed2e?style=flat-square&logo=node.js&logoColor=green" />
 <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" /><img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Next.js&logoColor=white" /><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" /><img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/-webpack-2b3a42?style=flat-square&logo=webpack&logoColor=8DD6F9" /><img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /><img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff" />
-</center>
+</p>
 
 <h2></h2>
 
