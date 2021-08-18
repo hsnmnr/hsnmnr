@@ -74,7 +74,9 @@
 <h2></h2>
 
 <details>
-	<summary><h2 align="center">Git Hub Stats 📝</h2></summary>
+	<summary>
+	<h2 align="center">Git Hub Stats 📝</h2>
+	</summary>
 	<p>
 		<center>
 			<div align="center">
