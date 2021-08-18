@@ -5,13 +5,13 @@
 <p align="center">My name is  <b><code>Hassan Munir</code></b>. I am a <code>full-stack web developer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
 
 <p align="center">
-	<a href="mailto:hassanmunir.me@gmail.com">
+	<a href="mailto:hassanmunir.me@gmail.com" target="_blank">
 		<img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" />
 	</a> 
-	<a href="https://hassanmunir.tech">
+	<a href="https://hassanmunir.tech" target="_blank">
 		<img src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333" />
 	</a>
-	<a href="https://github.com/hsnmnr">
+	<a href="https://github.com/hsnmnr" target="_blank">
 		<img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" />
 	</a> 
 </p>
@@ -32,19 +32,19 @@
 <br><br><br><br>
 
 <div align="center">
-	<a href="https://hassanmunir.tech">
+	<a href="https://hassanmunir.tech" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
 	</a> 
-	<a href="https://github.com/hsnmnr/">
+	<a href="https://github.com/hsnmnr/" target="_blank">
 		<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
 	</a> 
-	<a href="https://www.linkedin.com/in/hsnmnr/">
+	<a href="https://www.linkedin.com/in/hsnmnr/" target="_blank">
 		<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
 	</a>
-	<a href="mailto:hassanmunir.me@gmail.com">
+	<a href="mailto:hassanmunir.me@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
 	</a>
-	<a href="https://wa.me/923070401940?text=%23Github">
+	<a href="https://wa.me/923070401940?text=%23Github" target="_blank">
 		<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff">
 	</a>
 </div>
