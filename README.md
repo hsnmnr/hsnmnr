@@ -75,7 +75,7 @@
 
 <details>
 	<summary>
-	<h2 align="center">Git Hub Stats 📝</h2>
+	<h2>Git Hub Stats 📝</h2>
 	</summary>
 	<p>
 		<center>
