@@ -47,6 +47,9 @@
 	<a href="https://wa.me/923070401940?text=%23Github" target="_blank">
 		<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff">
 	</a>
+	<a href="https://wa.me/923316342023?text=%23Github" target="_blank">
+		<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff">
+	</a>
 </div>
 
 <h2></h2>
