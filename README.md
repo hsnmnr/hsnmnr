@@ -20,7 +20,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 😄 Pronouns me as `/huh-saan/`
+- 😄 Pronounce me as `/huh-saan/`
 - 🎓 Undergraduate at Information Technology University Lahore
 - 🏛 Working on multiple freelancing projects
 - ⚡ Expert at developing
