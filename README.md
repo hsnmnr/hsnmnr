@@ -8,7 +8,7 @@
 	<a href="mailto:hassanmunir.me@gmail.com" target="_blank">
 		<img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" />
 	</a> 
-	<a href="https://hassanmunir.tech" target="_blank">
+	<a href="https://hassanmunir.me" target="_blank">
 		<img src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333" />
 	</a>
 	<a href="https://github.com/hsnmnr" target="_blank">
@@ -32,7 +32,7 @@
 <br><br><br><br>
 
 <div align="center">
-	<a href="https://hassanmunir.tech" target="_blank">
+	<a href="https://hassanmunir.me" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
 	</a> 
 	<a href="https://github.com/hsnmnr/" target="_blank">
