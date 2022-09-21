@@ -21,11 +21,12 @@
 <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 😄 Pronounce me as `/huh-saan/`
-- 🎓 Undergraduate at Information Technology University Lahore
+- 🎓 Alumni of Information Technology University Lahore
+- ‍🎓 Bachelor of Science in Computer Science
 - 🏛 Working on multiple freelancing projects
-- ⚡ Expert at developing
+- ⚡ Expert Full Stack Engineer
 - 🌱 Currently expanding my knowledge and experience
-- 🔭 Looking for opportunities
+- 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
 - 📱 (+92) 307 0401940
 
