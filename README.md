@@ -22,9 +22,10 @@
   
 - 😄 Pronounce me as `/huh-saan/`
 - 🎓 Alumni of Information Technology University Lahore
-- ‍🎓 Bachelor of Science in Computer Science
-- 🏛 Working on Pakistan's top Shariah-compliant consumer financing platform
+- 🎓 Bachelor of Science in Computer Science
 - ⚡ Expert Full Stack Engineer
+- 🏛 Working on Pakistan's top Shariah-compliant consumer financing platform
+- 🚀 Making it easy for everyone to participate in the digital economy
 - 🌱 Currently expanding my knowledge and experience
 - 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
