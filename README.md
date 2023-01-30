@@ -29,7 +29,9 @@
 - 🌱 Currently expanding my knowledge and experience
 - 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
-- 📱 (+92) 307 0401940
+- ✉️ <a href="mailto:hassanmunir.me@gmail.com" target="_blank">hassanmunir.me@gmail.com</a>
+- 🌐 <a href="https://www.hassanmunir.me" target="_blank">hassanmunir.me</a>
+- 📱 <a href="tel:+923070401940" target="_blank">(+92) 307 0401940</a>
 
 <br><br><br><br>
 
