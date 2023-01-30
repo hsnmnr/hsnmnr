@@ -2,7 +2,7 @@
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 </h1>
 
-<p align="center">My name is  <b><code>Hassan Munir</code></b>. I am a <code>full-stack web developer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
+<p align="center">My name is  <b><code>Hassan Munir</code></b>. I am a <code>Full Stack Engineer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
 
 <p align="center">
 	<a href="mailto:hassanmunir.me@gmail.com" target="_blank">
