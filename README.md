@@ -23,7 +23,7 @@
 - 😄 Pronounce me as `/huh-saan/`
 - 🎓 Alumni of Information Technology University Lahore
 - ‍🎓 Bachelor of Science in Computer Science
-- 🏛 Working on multiple freelancing projects
+- 🏛 Working on Pakistan's top Shariah-compliant consumer financing platform
 - ⚡ Expert Full Stack Engineer
 - 🌱 Currently expanding my knowledge and experience
 - 🔭 Always on lookout for amazing opportunities
