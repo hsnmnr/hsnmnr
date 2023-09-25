@@ -25,7 +25,7 @@
 - 🎓 Bachelor of Science in Computer Science
 - ⚡ Expert Full Stack Engineer
 - 🏛 Working on Pakistan's top Shariah-compliant consumer financing platform
-- 🚀 Making it easy for everyone to participate in the digital economy
+- 🚀 Building something big with a bang
 - 🌱 Currently expanding my knowledge and experience
 - 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
