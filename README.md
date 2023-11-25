@@ -21,15 +21,13 @@
 <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 😄 Pronounce me as `/huh-saan/`
-- 🎓 Alumni of Information Technology University Lahore
 - 🎓 Bachelor of Science in Computer Science
 - ⚡ Expert Full Stack Engineer
-- 🏛 Working on Pakistan's top Shariah-compliant consumer financing platform
-- 🚀 Building something big with a bang
-- 🌱 Currently expanding my knowledge and experience
+- 🌱 Worked on Pakistan’s leading Shariah-Aligned consumer financing startup
+- 🚀 Currently Building something big with a bang
 - 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
-- ✉️ <a href="mailto:hassanmunir.me@gmail.com" target="_blank">hassanmunir.me@gmail.com</a>
+- ✉️ <a href="mailto:contact@hassanmunir.me" target="_blank">contact@hassanmunir.me</a>
 - 🌐 <a href="https://www.hassanmunir.me" target="_blank">hassanmunir.me</a>
 - 📱 <a href="tel:+923070401940" target="_blank">(+92) 307 0401940</a>
 
