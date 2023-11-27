@@ -77,7 +77,7 @@
 
 <details>
 	<summary>
-		Git Hub Stats 📝
+		GitHub Stats 📝
 	</summary>
 	<p>
 		<center>
