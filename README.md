@@ -92,9 +92,6 @@
 			<p align="center">
 				<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnmnr&theme=dark&hide_border=true"/>
 			</p>
-			<p align="center">
-				<img src="https://metrics.lecoq.io/hsnmnr" alt="Github Metrics" />
-			</p>
 		</center>
 	</p>
 </details>
