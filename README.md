@@ -27,7 +27,7 @@
 - 🚀 Currently Building something big with a bang
 - 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
-- ✉️ <a href="mailto:contact@hassanmunir.me" target="_blank">contact@hassanmunir.me</a>
+- ✉️ <a href="mailto:connect@hassanmunir.me" target="_blank">connect@hassanmunir.me</a>
 - 🌐 <a href="https://www.hassanmunir.me" target="_blank">hassanmunir.me</a>
 - 📱 <a href="tel:+923070401940" target="_blank">(+92) 307 0401940</a>
 
