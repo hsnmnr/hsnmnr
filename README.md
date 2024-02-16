@@ -21,9 +21,8 @@
 <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 😄 Pronounce me as `/huh-saan/`
-- 🎓 Bachelor of Science in Computer Science
 - ⚡ Expert Full Stack Engineer
-- 🌱 Worked on Pakistan’s leading Shariah-Aligned consumer financing startup
+- 🌱 Spearheaded Pakistan’s leading consumer financing startup
 - 🚀 Currently Building something big with a bang
 - 🔭 Always on lookout for amazing opportunities
 - 🇵🇰 Lahore, Punjab, Pakistan
