@@ -21,10 +21,7 @@
 <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 😄 Pronounce me as `/huh-saan/`
-- ⚡ Expert Full Stack Engineer
-- 🌱 Spearheaded Pakistan’s leading consumer financing startup
-- 🚀 Currently Building something big with a bang
-- 🔭 Always on lookout for amazing opportunities
+- ⚡ Senior Software Engineer
 - 🇵🇰 Lahore, Punjab, Pakistan
 - ✉️ <a href="mailto:connect@hassanmunir.me" target="_blank">connect@hassanmunir.me</a>
 - 🌐 <a href="https://www.hassanmunir.me" target="_blank">hassanmunir.me</a>
