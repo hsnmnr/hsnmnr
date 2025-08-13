@@ -47,7 +47,10 @@
 
 ---
 
-### 📌 Featured Work
+<details>
+<summary><h3>📌 Featured Work</h3></summary>
+<br>
+
 <table>
 <tr>
 <td width="50%" align="center">
@@ -63,13 +66,21 @@
 </tr>
 </table>
 
+</details>
+
 ---
 
-### 📊 My Stats
+<details>
+<summary><h3>📊 Stats</h3></summary>
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsnmnr&show_icons=true&theme=tokyonight" />
+  <br><br>
   <img src="https://streak-stats.demolab.com?user=hsnmnr&theme=tokyonight&hide_border=false" />
 </p>
+
+</details>
 
 ---
 
