@@ -47,40 +47,14 @@
 
 ---
 
-<details>
-<summary><h3>📌 Featured Work</h3></summary>
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/-Xenia%20Dashboarding-0f0f0f?style=for-the-badge&logoColor=06B6D4" /><br>
-  <em>Real-time customizable dashboards powered by CDC pipelines over ClickHouse.</em><br><br>
-  <strong>Stack:</strong> Node.js, TypeScript, Redis, ClickHouse, PostgreSQL
-</td>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/-AIO%20Microservices-0f0f0f?style=for-the-badge&logoColor=06B6D4" /><br>
-  <em>Event-driven architecture with BullMQ and Redis Pub/Sub for real-time restaurant ops.</em><br><br>
-  <strong>Stack:</strong> Node.js, BullMQ, Redis, PostgreSQL
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-<details>
-<summary><h3>📊 Stats</h3></summary>
-<br>
-
+### 📊 Activity Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsnmnr&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=hsnmnr&theme=tokyonight&hide_border=false" />
+  <em>Quick glance at my GitHub journey so far.</em>
 </p>
-
-</details>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hsnmnr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=hsnmnr&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
