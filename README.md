@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Hassan%20Munir&fontSize=60&fontColor=00FF88&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Hassan%20Munir&fontSize=60&fontColor=06B6D4&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">🚀 Senior Software Engineer</h3>
@@ -8,14 +8,20 @@
   <em>Building high-performance apps, scaling infrastructure, and crafting experiences that just work.</em>
 </p>
 
+<p align="center">
+  <a href="mailto:connect@hassanmunir.me"><img src="https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=06B6D4" /></a>
+  <a href="https://www.linkedin.com/in/hsnmnr"><img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=06B6D4" /></a>
+  <a href="https://www.hassanmunir.me"><img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=firefox&logoColor=06B6D4" /></a>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
-- 💡 I love turning **complex problems** into simple, elegant solutions.  
-- 🔥 Specialize in **TypeScript, Node.js, distributed systems, and offline-first apps**.  
-- 🛠️ Have built **SSO flows, real-time dashboards, event-driven microservices, and OLAP analytics**.  
-- 🌍 Collaborating remotely with teams worldwide.  
-- 🎯 Always curious about **edge computing, CQRS, and async patterns**.
+💡 I love turning **complex problems** into simple, elegant solutions.  
+🔥 Specialize in **TypeScript, Node.js, distributed systems, and offline-first apps**.  
+🛠️ Built **SSO flows, real-time dashboards, event-driven microservices, and OLAP analytics**.  
+🌍 Work with remote teams across the globe.  
+🎯 Constantly exploring **edge computing, CQRS, and async patterns**.  
 
 ---
 
@@ -42,16 +48,15 @@
 ---
 
 ### 📌 Featured Work
-
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://img.shields.io/badge/-Xenia%20Dashboarding-0f0f0f?style=for-the-badge&logoColor=00FF88" /><br>
+  <img src="https://img.shields.io/badge/-Xenia%20Dashboarding-0f0f0f?style=for-the-badge&logoColor=06B6D4" /><br>
   <em>Real-time customizable dashboards powered by CDC pipelines over ClickHouse.</em><br><br>
   <strong>Stack:</strong> Node.js, TypeScript, Redis, ClickHouse, PostgreSQL
 </td>
 <td width="50%" align="center">
-  <img src="https://img.shields.io/badge/-AIO%20Microservices-0f0f0f?style=for-the-badge&logoColor=00FF88" /><br>
+  <img src="https://img.shields.io/badge/-AIO%20Microservices-0f0f0f?style=for-the-badge&logoColor=06B6D4" /><br>
   <em>Event-driven architecture with BullMQ and Redis Pub/Sub for real-time restaurant ops.</em><br><br>
   <strong>Stack:</strong> Node.js, BullMQ, Redis, PostgreSQL
 </td>
@@ -70,5 +75,8 @@
 
 <!-- Creative Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Keep+coding...;Stay+curious...;Ship+things+that+matter." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Keep+coding...;Stay+curious...;Ship+things+that+matter." />
+</p>
+<p align="center">
+  <sub>Made with ❤️ by Hassan Munir — <a href="https://www.hassanmunir.me">hassanmunir.me</a></sub>
 </p>
