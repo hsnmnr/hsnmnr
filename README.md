@@ -3,65 +3,66 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Hassan%20Munir&fontSize=60&fontColor=06B6D4&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Senior Software Engineer</h3>
+<h3 align="center">Senior Software Engineer · AI-Augmented</h3>
 <p align="center">
-  <em>Building high-performance apps, scaling infrastructure, and crafting experiences that just work.</em>
+  <em>Backend architecture for fintech &amp; B2B SaaS — distributed systems in Node, TypeScript, and AWS.</em>
 </p>
 
 <p align="center">
   <a href="mailto:connect@hassanmunir.me"><img src="https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=06B6D4" /></a>
   <a href="https://www.linkedin.com/in/hsnmnr"><img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=06B6D4" /></a>
   <a href="https://www.hassanmunir.me"><img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=firefox&logoColor=06B6D4" /></a>
+  <a href="https://dev.to/hsnmnr"><img src="https://img.shields.io/badge/Dev.to-0f0f0f?style=for-the-badge&logo=devdotto&logoColor=06B6D4" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-💡 I love turning **complex problems** into simple, elegant solutions.  
-🔥 Specialize in **TypeScript, Node.js, distributed systems, and offline-first apps**.  
-🛠️ Built **SSO flows, real-time dashboards, event-driven microservices, and OLAP analytics**.  
-🌍 Work with remote teams across the globe.  
-🎯 Constantly exploring **edge computing, CQRS, and async patterns**.  
+### What I do
+
+I drive backend architecture at **[Xenia](https://www.xenia.team)** — a B2B SaaS platform for 10,000+ deskless workers. 5+ years across **fintech and B2B SaaS**, focused on distributed systems, performance, and reliability.
+
+I work in an **AI-augmented** style — Claude Code with custom skills, plugins, and parallel agents. Established AI-native service docs across our repos that cut new-engineer onboarding **by 70%** and lifted sprint throughput **3×**.
+
+### Recent work at Xenia
+
+- **Real-time analytics on CDC + ClickHouse** — offloaded 70% of read traffic from primary databases
+- **Enterprise SSO via WorkOS** (SAML, Google, Azure AD) — onboarded 10+ enterprise clients with zero auth incidents
+- **Offline-first mobile sync** for low-connectivity environments — cut data loss by 90% across 10,000+ field workers
+- **AWS RDS tuning** — reduced CPU 50%, saving ~$3K/month
 
 ---
 
-### 🛠️ Tech Arsenal
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-F7A81B?style=for-the-badge&logo=clickhouse&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+### Stack
+
+**Backend** &nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickHouse-F7A81B?style=flat-square&logo=clickhouse&logoColor=black" />
+
+**Infra** &nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
+**AI-Native** &nbsp;
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 
 ---
 
-### 📊 Activity Snapshot
-<p align="center">
-  <em>Quick glance at my GitHub journey so far.</em>
-</p>
+### Writing
+
+I write about backend architecture, distributed systems, and AI-native engineering on **[Dev.to](https://dev.to/hsnmnr)** and **[Medium](https://medium.com/@hsnmnr)**.
+
+---
+
+### Activity
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hsnmnr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=hsnmnr&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- Creative Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Keep+coding...;Stay+curious...;Ship+things+that+matter." />
-</p>
-<p align="center">
-  <sub>Made with ❤️ by Hassan Munir — <a href="https://www.hassanmunir.me">hassanmunir.me</a></sub>
 </p>
