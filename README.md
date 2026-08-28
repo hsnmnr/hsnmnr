@@ -19,7 +19,7 @@
 
 ### What I do
 
-I drive backend architecture at **[Xenia](https://www.xenia.team)** — a B2B SaaS platform for 10,000+ deskless workers. 5+ years across **fintech and B2B SaaS**, focused on distributed systems, performance, and reliability.
+I drive backend architecture at **[Xenia](https://www.xenia.team)** — a B2B SaaS platform for 32,000+ deskless workers. 5+ years across **fintech and B2B SaaS**, focused on distributed systems, performance, and reliability.
 
 I work in an **AI-augmented** style — Claude Code with custom skills, plugins, and parallel agents. Established AI-native service docs across our repos that cut new-engineer onboarding **by 70%** and lifted sprint throughput **3×**.
 
