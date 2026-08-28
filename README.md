@@ -27,7 +27,7 @@ I work in an **AI-augmented** style — Claude Code with custom skills, plugins,
 
 - **Real-time analytics on CDC + ClickHouse** — offloaded 70% of read traffic from primary databases
 - **Enterprise SSO via WorkOS** (SAML, Google, Azure AD) — onboarded 10+ enterprise clients with zero auth incidents
-- **Offline-first mobile sync** for low-connectivity environments — cut data loss by 90% across 10,000+ field workers
+- **Offline-first mobile sync** for low-connectivity environments — cut data loss by 90% across 32,000+ field workers
 - **AWS RDS tuning** — reduced CPU 50%, saving ~$3K/month
 
 ---
